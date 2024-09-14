@@ -18,5 +18,6 @@ I also made another file that draws more of an optical illusion squares by makin
 5. Step 21 answer: The flowchart represents a program that will check if y is equal to the answer and if it is it will run a turtle code and if by the end of the turtle code the y is still the answer it will run again until y does not equal the answer.
 6.![image](https://github.com/user-attachments/assets/084afd19-8325-48cb-9df1-9146828f8e6a)
 ![image](https://github.com/user-attachments/assets/ec226920-b493-4a7d-b093-49f6edc3cc20)
-7.here is an example of the halting problem where we dont know if this code will every stop running or keep going forever.![image](https://github.com/user-attachments/assets/2e07f74d-8836-47a5-812d-6640cf98c7f0)
+7.here is an example of the halting problem where we dont know if this code will every stop running or keep going forever.
+![image](https://github.com/user-attachments/assets/2e07f74d-8836-47a5-812d-6640cf98c7f0)
 
